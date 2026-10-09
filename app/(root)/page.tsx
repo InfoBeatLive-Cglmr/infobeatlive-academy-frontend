@@ -6,7 +6,7 @@ import { HomePageView } from "../components/home/HomePage";
 import { StudyPlanDetailModal } from "../components/home/StudyPlan";
 import { AuthModal } from "../components/home/AuthModal";
 import { InstitutionalFooter } from "../components/home/Footer";
-import { CatalogPageView } from "../components/home/aaa";
+import { CatalogPageView } from "@/app/components/home/Catalog";
 import { HowItWorksPageView } from "../components/home/HowItWorks";
 import { PricingPageView } from "../components/home/Pricing";
 import { CredibilityPageView } from "../components/home/Credibility";
